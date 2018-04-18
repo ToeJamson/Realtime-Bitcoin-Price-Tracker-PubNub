@@ -2,7 +2,7 @@
 
 This is a simple dashboard for tracking realtime pricing updates on Bitcoin powered by the powerful PubNub network.
 
-![Screenshot of Demo](screenshot1.jpg)
+![Screenshot of Demo](screenshot1.png)
 
 Currently, the application only updates every 10 seconds, however this is very easy to change.  In the setInterval javascript function, you can change the 10,000 milliseconds number to whatever you wish:
 
